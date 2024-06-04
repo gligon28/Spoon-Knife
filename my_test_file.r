@@ -2,3 +2,4 @@
 # updating file
 x <- 1
 y <- 2*x
+y -< 10
